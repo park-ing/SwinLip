@@ -75,7 +75,7 @@ swinlip-inference/
 
 ## Pretrained Models
 
-We provide two pretrained models:
+We provide two pretrained models trained on the LRW dataset:
 
 | Model | Acc. | Checkpoint | Params (M) | FLOPs (G) |
 |-------|----------|------------|--------|------|
